@@ -12,8 +12,8 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<name>Techwave</name>
+		<url>http://techwave.net</url>
 	</organization>
 
 	<properties>
@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.17.147.150:8081/repository/mypro-rel/</url>
+	      <name> Releases Nexus Repository</name>
+	      <url>http://3.110.174.59:8081/repository/Sample_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.17.147.150:8081/repository/myproject-snap/</url>
+	      <name> Snapshot Nexus Repository </name>
+	      <url>http://3.110.174.59:8081/repository/sample_maven/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
