@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name> Releases Nexus Repository</name>
-	      <url>http://3.110.174.59:8081/repository/Sample_release/</url>
+	      <url>http://ec2-3-7-69-57.ap-south-1.compute.amazonaws.com:8081/repository/Sample_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name> Snapshot Nexus Repository </name>
-	      <url>http://3.110.174.59:8081/repository/sample_maven/</url>
+	      <url>http://ec2-3-7-69-57.ap-south-1.compute.amazonaws.com:8081/repository/sample_maven/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
