@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions.</h1>
-<h1 align="center"> Mithun Software Solutions- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to Techwave Consulting India Pvt.Ltd.</h1>
+<h1 align="center"> As experts in Digital Transformation, our sole purpose is to drive innovation in an increasingly competitive climate. Our global team combines technical knowledge, breakthrough analytics and a genuine understanding of today’s consumers to empower you to stay ahead of the game. </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -26,25 +26,21 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 </h1>
 <hr>
 <div style="text-align: center;">
-	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
-	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
-		+91-9980923226
-		devopstrainingblr@gmail.com
+		Hyderabad
+                #1-89/3/19, SY NO #Plot No- 19,
+                Durgam Cheruvu, Madhapur
+                Hyderabad,Telangana, India – 500082,
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:info@techwave.net">Mail to Welcome to Techwave Consulting India Pvt.Ltd</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center>Welcome to Techwave Consulting India Pvt.Ltd</p>
+<p align=center><small>Copyrights 2022 by <a href="https://techwave.net/">Welcome to Techwave Consulting India Pvt.Ltd</a> </small></p>
 
 </body>
 </html>
